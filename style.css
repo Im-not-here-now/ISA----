@@ -1,0 +1,18 @@
+.body{
+    align-content: center;
+}
+#navbar-brand{
+    width:100%;
+    height:500px;
+    border:none;
+}
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+}
+.Sceduale-imgs{
+width: 150px;
+height: 150px;
+}
+.Sceduale-ps{
+    margin: 20px;
+}
